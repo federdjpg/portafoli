@@ -2,7 +2,7 @@
   "name": "portafolio-fededjpg",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://federdjpg.github.io/portafolio-fededjpg",
+  "homepage": "http://federdjpg.github.io/portafolio",
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
